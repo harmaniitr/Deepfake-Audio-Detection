@@ -55,7 +55,7 @@ The script displays:
 Run the Streamlit app from the project directory:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 Upload an audio file through the web interface and click **Detect Audio**.
